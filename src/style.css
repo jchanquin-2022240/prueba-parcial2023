@@ -13,7 +13,7 @@ body {
   }
   
   nav {
-    background-color: #27496D;
+    background-color: #b6dec1;
     padding: 10px;
     text-align: left;
   }
@@ -45,7 +45,7 @@ body {
   
   .section-container {
     background-color: white;
-    border: 10px solid #142850;
+    border: 10px solid #b6dec1;
     border-radius: 20px;
     margin-bottom: 10px;
     padding: 20px;
@@ -90,7 +90,7 @@ body {
   }
   
   footer {
-    background-color: #27496D;
+    background-color: #b6dec1;
     color: #fff;
     padding: 10px;
     text-align: center;
