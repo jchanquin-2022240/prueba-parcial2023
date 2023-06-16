@@ -18,7 +18,7 @@ header{
     max-width: 945px;
     height: 50px;
     color: white;
-    background-color: #142850;
+    background-color: black;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
@@ -48,7 +48,7 @@ nav a:hover{
     justify-content: center;
     margin: auto;
     margin-top: 50px;
-    background-color: #142850;
+    background-color: black;
 }
 
 .separacion h3{
@@ -189,7 +189,7 @@ nav a:hover{
  .footer .foo{
     text-align: center;
     justify-content: center;
-    background-color: #142850;
+    background-color: black;
     color: white;
  }
 

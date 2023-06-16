@@ -13,7 +13,7 @@ body {
   }
   
   nav {
-    background-color: #142850;
+    background-color: gray;
     padding: 10px;
     text-align: left;
   }
@@ -45,7 +45,7 @@ body {
   
   .section-container {
     background-color: white;
-    border: 10px solid #142850;
+    border: 10px solid black;
     border-radius: 20px;
     margin-bottom: 10px;
     padding: 20px;
